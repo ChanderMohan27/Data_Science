@@ -4,9 +4,8 @@
 # third party packages
 dvc
 dvc[gdrive]
-sklearn
+scikit-learn
 pandas
-pytest
 tox
 flake8
 flask

@@ -26,7 +26,7 @@ def train_and_evaluate(config_path):
     test_data_path = config["split_data"]["test_path"]
     train_data_path = config["split_data"]["train_path"]
     random_state = config["base"]["random_state"]
-    model_dir = config["model_dir"]
+    model_dir = config["model_dir"] 
 
     alpha = config["estimators"]["ElasticNet"]["params"]["alpha"]
     l1_ratio = config["estimators"]["ElasticNet"]["params"]["l1_ratio"]
@@ -90,3 +90,4 @@ if __name__=="__main__":
     args.add_argument("--config", default="params.yaml")
     parsed_args = args.parse_args()
     train_and_evaluate(config_path=parsed_args.config)
+    
