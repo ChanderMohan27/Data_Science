@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-11-15 at 11 06 39 am" src="https://github.com/ChanderMohan27/Data_Science/assets/128381758/f9d70a32-7145-4275-bac7-4870df0a879f"># Data_Science Project
+# Data_Science Project
 
 Welcome to the Data_Science project, a machine learning initiative leveraging MLOps principles and implementing Data Version Control (DVC).
 
