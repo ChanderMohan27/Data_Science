@@ -1,4 +1,4 @@
-# Data_Science Project
+<img width="1440" alt="Screenshot 2023-11-15 at 11 06 39 am" src="https://github.com/ChanderMohan27/Data_Science/assets/128381758/f9d70a32-7145-4275-bac7-4870df0a879f"># Data_Science Project
 
 Welcome to the Data_Science project, a machine learning initiative leveraging MLOps principles and implementing Data Version Control (DVC).
 
@@ -35,3 +35,10 @@ A special thanks to the  Krish Naik YouTube channels for providing valuable insi
 
 
 I greatly appreciate the educational content provided by Krish Naik youtube channel , which played a significant role in shaping my understanding and implementation of MLOps concepts and machine learning techniques.
+
+## Sample  Image of Flask Application to predict the wine Quality 
+
+<img width="1440" alt="Screenshot 2023-11-15 at 11 06 39 am" src="https://github.com/ChanderMohan27/Data_Science/assets/128381758/fc629d48-ced8-4f56-9744-55314cdc2930">
+
+
+
